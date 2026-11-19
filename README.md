@@ -3,54 +3,58 @@
 </p>
 
 <p align="center">
-  <b>Electronic Engineering Student · VHDL / RTL · Computer Architecture</b><br />
-  Building foundations for <b>AI Accelerator Architecture</b>.<br />
+  <b>Applied AI · Digital Hardware · Computer Architecture</b><br />
+  Career focus: <b>AI Accelerator Architecture</b><br />
   Rio de Janeiro, Brazil
 </p>
 
 ---
 
-### Understanding intelligence. Designing the hardware behind it.
+### From AI systems to the hardware that powers them.
 
-I'm **Jônatas Eduardo**, an Electronic Engineering student at **UFCIRJ (formerly CEFET/RJ)** and an Electronics Technician.
+I'm **Jônatas Eduardo**, an Electronic Engineering student at **UFCIRJ (formerly CEFET/RJ)** and an Electronics Technician. My background combines **applied AI projects, Python development and technical leadership through IEEE**.
 
-My career direction is **AI Accelerator Architecture**: understanding how neural-network workloads become computation, how data moves through hardware, and how architectural decisions affect performance and energy efficiency.
+Since joining IEEE in 2024, I've worked on projects involving **generative AI, natural language processing, retrieval-augmented generation, multi-agent systems and computer vision**. That experience shapes my interest in how intelligent systems are built—and how their computational demands translate into hardware.
 
-I'm building my foundations in **digital design, VHDL / RTL and computer architecture**, with academic experience in VHDL and FPGA. My goal is to connect these foundations with machine learning and hardware–software co-design.
+My career focus is **AI Accelerator Architecture**: connecting AI workloads with digital design, parallel computation, memory systems and hardware–software co-design.
 
-### From instrumentation to digital systems
+### Applied AI experience
 
-At **OceanPact Geociências**, I work with oceanographic and meteorological instrumentation: sensor testing and configuration, calibration workflows, serial communication and troubleshooting. I also develop **Python automations** for technical data processing and engineering workflows.
+Through technical projects at the **IEEE CEFET/RJ Student Branch**, I've contributed to:
 
-This work has strengthened how I approach engineering problems: investigate system behavior, validate data, identify failures and document results.
-
-| Current experience | Practice |
+| Project / area | Technical work |
 | :--- | :--- |
-| **Python & technical data** | Automation, pandas and validation of engineering data. |
-| **Instrumentation** | Sensor testing, configuration, calibration workflows and serial communication. |
-| **Engineering workflows** | Technical documentation, equipment traceability and collaboration across teams. |
-| **Academic digital hardware** | VHDL and FPGA coursework. |
+| **AVIR · Generative AI & NLP** | Development of a virtual assistant using language models and **RAG** to retrieve information from IEEE documents and support access to internal knowledge and processes. |
+| **Multi-agent automation** | Development of AI-based automation with **Python and multi-agent systems**, supporting internal workflows and reducing repetitive tasks. |
+| **Robot soccer · Computer vision** | Work on **YOLOv8-based computer vision** for a robot soccer project, connecting visual perception with robotics and hardware–software integration. |
 
-### My technical direction
+**Python · Generative AI · LLMs · RAG · NLP · Multi-agent Systems · Computer Vision · YOLOv8**
 
-**AI Accelerator Architecture** is the thread connecting what I want to learn and build:
+### Connecting AI and hardware
 
-- **Digital foundations:** RTL design, testbenches, simulation and verification.
-- **Computer architecture:** datapaths, control, pipelines, memory systems and RISC-V.
-- **AI workloads:** neural networks, matrix operations and quantized inference.
-- **Accelerator design:** MAC units, parallel compute arrays, dataflow and data reuse.
-- **Architectural trade-offs:** latency, throughput, memory bandwidth and energy efficiency.
+Working on AI systems motivates me to understand the architecture beneath their execution: how matrix operations map to compute units, how memory bandwidth limits performance, and how data reuse and numerical precision affect efficiency.
 
-These are my development goals. As I complete projects, I want this profile to show their specifications, implementation choices, tests and measured results.
+My hardware background includes **academic experience with VHDL and FPGA**. I'm extending that work toward **RTL design, processor microarchitecture and AI accelerators**, with particular interest in:
 
-### Beyond the technical work
+- **Compute:** MAC units, matrix multiplication, parallel datapaths and systolic arrays.
+- **Data movement:** memory hierarchies, dataflow, bandwidth and data reuse.
+- **AI workloads:** neural-network inference, quantization and hardware–software co-design.
+- **Engineering trade-offs:** performance, power, area, latency and throughput.
 
-I've also participated in **IEEE leadership and event organization**, collaborating with people around engineering and technology.
+### IEEE leadership & community
 
-Outside engineering, I enjoy **playing RPGs and writing fiction**.
+Alongside technical projects, I've led teams and initiatives connecting students, researchers and industry:
+
+- **Chair · IEEE Computer Society Student Chapter, CEFET/RJ (2025–2026):** led a community of more than **90 participants**, with official memberships growing from **17 to 34**.
+- **Event Operations Coordinator · IEEE AI Pioneer Summit 2025:** coordinated **19 volunteers** across event operations, registration, communication and speaker support.
+- **General Coordinator · IEEE Computer Society Brazil Symposium 2026:** coordinated an event with **223 registrations, 188 participants and representation from 21 institutions**.
+
+### Beyond engineering
+
+I enjoy **playing RPGs and writing fiction**.
 
 ---
 
 <p align="center">
-  <sub>Logic. Data movement. Parallel computation.</sub>
+  <sub>AI workloads. Digital systems. Accelerator architecture.</sub>
 </p>
