@@ -12,9 +12,9 @@
 
 ### From AI systems to the hardware that powers them.
 
-I'm **Jônatas Eduardo**, an Electronic Engineering student at **UFCIRJ (formerly CEFET/RJ)** and an Electronics Technician. My background combines **applied AI projects, Python development and technical leadership through IEEE**.
+I'm **Jônatas Eduardo**, an Electronic Engineering student at **UFCIRJ** and an Electronics Technician. My background combines **applied AI projects, Python development and technical leadership through IEEE**.
 
-Since joining IEEE in 2024, I've worked on projects involving **generative AI, natural language processing, retrieval-augmented generation, multi-agent systems and computer vision**. That experience shapes my interest in how intelligent systems are built—and how their computational demands translate into hardware.
+Since joining IEEE in 2024, I've worked on projects involving **generative AI, natural language processing, retrieval-augmented generation, multi-agent systems and computer vision**. That experience shapes my interest in how intelligent systems are built and how their computational demands translate into hardware.
 
 My career focus is **AI Accelerator Architecture**: connecting AI workloads with digital design, parallel computation, memory systems and hardware–software co-design.
 
