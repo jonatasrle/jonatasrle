@@ -72,7 +72,7 @@ Alongside technical projects, I've led teams and initiatives connecting students
 
 ### ☕ Beyond engineering
 
-🎲 I enjoy **playing RPGs** and ✍️ **writing fiction**.
+🎲 I enjoy **tabletop role-playing games** and ✍️ **writing fiction**. 🎧 I'm also a **big hip-hop fan**.
 
 ---
 
